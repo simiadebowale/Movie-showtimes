@@ -1,1 +1,0 @@
-8 Mar 2019 5:53:16 GMT: Log 'EclipseCompiler.txt' opened: 8 Mar 2019 5:53:16 GMT with name C:\Users\simee\OneDrive\Desktop\Movie-showtimes\EclipseCompiler.txt
