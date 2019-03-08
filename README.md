@@ -7,10 +7,10 @@ This program uses a graphical user interface that allows the user to look up mov
 
 # Imports:
 
-java.awt.* contains all of the classes for creating user interfaces.
-Java.awt.event.* provides interfaces and classes for dealing with different types of events fired by AWT components.
-Javax.swing.* imports all classes from the package.
-Java.util.* contains the collections framework, legacy collection classes, event model, date and time facilities, internationalization, and miscellaneous utility classes.
+-java.awt.* contains all of the classes for creating user interfaces.
+-Java.awt.event.* provides interfaces and classes for dealing with different types of events fired by AWT components.
+-Javax.swing.* imports all classes from the package.
+-Java.util.* contains the collections framework, legacy collection classes, event model, date and time facilities, internationalization, and miscellaneous utility classes.
 
 
 # Class Selection: 
